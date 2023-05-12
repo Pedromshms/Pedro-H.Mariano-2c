@@ -8,3 +8,7 @@
 body{
 background-color: var( --cor-de-fundo: #00030c);
 color:var(--cor-de-fundo: #00030c;)
+}
+.principal{
+background-imagem: url("background.png");r
+}
