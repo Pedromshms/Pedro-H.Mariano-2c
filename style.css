@@ -24,13 +24,13 @@
     }
 
     .principal-botao2{
-        background-color: var(--botao-azul);
+        background-color: var(--transparent);
         color:varvar(--branco-principal);
         border-radius: 5px;
     }
 
     .principal-aviso{
-        background-color: var(--botao-azul);
+        background-color: var(--transparent);
         color:varvar(--branco-principal);
         border-radius: 5px;
     }
