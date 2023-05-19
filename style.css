@@ -20,18 +20,18 @@
     .principal-botao{
         background-color: var(--botao-azul);
         color:varvar(--branco-principal);
-        border-radius:  5px;
+        border-radius: 5px;
     }
 
     .principal-botao2{
         background-color: var(--botao-azul);
         color:varvar(--branco-principal);
-        border: radius 5px;
+        border-radius: 5px;
     }
 
     .principal-aviso{
         background-color: var(--botao-azul);
         color:varvar(--branco-principal);
-        border: radius 5px;
+        border-radius: 5px;
     }
     
