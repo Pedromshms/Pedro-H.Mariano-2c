@@ -11,8 +11,14 @@
     }
     
     .principal{
-    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.folhape.com.br%2Fcolunistas%2Ffolha-pet%2Folho-de-cachorro-pidao-realmente-existe-caes-usam-expressoes-para-se-comunicar-com-humanos%2F30480%2F&psig=AOvVaw2jcEhVNxlEhzGZhvlICTjE&ust=1684579739867000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICiid2agf8CFQAAAAAdAAAAABAc.png");
+    background-image: url("background.png");
     background-size: contain;
     background-repeat: no-repeat;
     height: 100vh;
+
+    .principal-botao{
+        background-color: var(--botao-azul);
+        color:varvar(--branco-principal);
+        border: radius 5px;
+    }
     }
