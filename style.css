@@ -20,7 +20,7 @@
     .principal-botao{
         background-color: var(--botao-azul);
         color:varvar(--branco-principal);
-        border: radius 5px;
+        border-radius:  5px;
     }
 
     .principal-botao2{
