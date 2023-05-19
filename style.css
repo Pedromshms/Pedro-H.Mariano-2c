@@ -21,6 +21,7 @@
         background-color: var(--botao-azul);
         color:varvar(--branco-principal);
         border-radius: 5px;
+        padding: 16px;
     }
 
     .principal-botao2{
